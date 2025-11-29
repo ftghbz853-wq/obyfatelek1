@@ -1,4 +1,3 @@
-# obyfatelek1
 # Obywatelek
 
 Projekt **Obywatelek** to uproszczona, statyczna wersja interfejsu aplikacji mObywatel, działająca jako zwykła strona HTML.  

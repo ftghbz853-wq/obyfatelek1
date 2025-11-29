@@ -1,4 +1,4 @@
-# Obywatelek
+#Obywatelek
 
 Projekt **Obywatelek** to uproszczona, statyczna wersja interfejsu aplikacji mObywatel, działająca jako zwykła strona HTML.  
 Służy wyłącznie do celów edukacyjnych i testowych.
